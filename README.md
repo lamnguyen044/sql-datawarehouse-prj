@@ -3,6 +3,7 @@
 Welcome to the **Data Warehouse and Analytics Project** repository!
 
 This project showcases a complete end-to-end pipeline from data warehousing to generating actionable insights using industry-standard data engineering and analytics practices.
+
 ---
 
 ## 🚀 Project Requirements
